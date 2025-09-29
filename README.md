@@ -6,7 +6,7 @@ Analysis was done on Global Wire Background Company which is a retail brand and 
 
 Finding: The top 5 products (Others, Flats-Others, B207 2.5mm, XLPE Single Core, Versolex Single Core) contributed most to commercial margins, but their performance varied across states. For example, B207 2.5mm performed well in NSW, WA, QLD but poorly in SA, ACT, NT.
 
-<img width="1299" height="912" alt="image" src="https://github.com/user-attachments/assets/2affedae-6a28-499d-9935-d123cf4774c4" />
+<img width="1000" height="712" alt="image" src="https://github.com/user-attachments/assets/2affedae-6a28-499d-9935-d123cf4774c4" />
 
 
 Business Impact: This showed that product demand was not uniform across regions. Some states were underperforming despite strong national sales, suggesting inefficiencies in product placement and marketing. By reallocating focus to states where products already perform well, the company could increase margins and reduce losses in weaker regions.
