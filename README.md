@@ -15,9 +15,9 @@ Business Impact: This showed that product demand was not uniform across regions.
 
 Finding: The top 3 customers—Medicing ($8.65M), Formonix ($5.18M), and Branding ($5.06M)—generated the largest share of commercial margin. Their purchases were concentrated on key products like B207 2.5mm and Flats-Others, distributed differently across states.
 
-<img width="1280" height="998" alt="image" src="https://github.com/user-attachments/assets/b22296f0-2be0-411d-bcc3-9991de480779" />
-<img width="735" height="1280" alt="image" src="https://github.com/user-attachments/assets/fcbb4391-0490-438c-a09c-5f7d3371fef6" />
-<img width="1262" height="1110" alt="image" src="https://github.com/user-attachments/assets/374543d9-4ed2-447c-bce5-66a30d8e61e7" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b22296f0-2be0-411d-bcc3-9991de480779" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fcbb4391-0490-438c-a09c-5f7d3371fef6" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/374543d9-4ed2-447c-bce5-66a30d8e61e7" />
 
 Business Impact: This highlighted customer concentration risk but also revealed opportunities to strengthen ties with high-value customers. Tailoring state-specific strategies (e.g., focusing on VIC for Medicing, NSW for Formonix) could deepen relationships and drive further sales.
 
@@ -25,10 +25,10 @@ Business Impact: This highlighted customer concentration risk but also revealed 
 
 Finding: Transportation cost per tonne was significantly higher from VIC–NSW ($487.4/tonne) compared to VIC–WA ($281.4/tonne), despite NSW being geographically closer. Both states showed similar product demand and commercial margins.
 
-<img width="1970" height="1970" alt="image" src="https://github.com/user-attachments/assets/edf38269-a8b1-48bb-87b5-b4ece207c287" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/edf38269-a8b1-48bb-87b5-b4ece207c287" />
 
 
-<img width="1126" height="1006" alt="image" src="https://github.com/user-attachments/assets/6fa1b643-377d-4a2d-bd13-928e247b3b67" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6fa1b643-377d-4a2d-bd13-928e247b3b67" />
 
 
 Business Impact: The company was incurring unnecessarily high costs serving NSW compared to WA. Redirecting part of sales volume from NSW to WA could maintain margins while lowering logistics expenses, improving overall profitability.
